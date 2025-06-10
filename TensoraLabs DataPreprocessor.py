@@ -6,7 +6,7 @@ import numpy as np
 import os
 
 st.title("TensoraLabs - Data Preprocessing")
-st.write("We provide data preprocessing without writing any line of code.")
+st.write("Data preprocessing without writing any line of code.")
 
 file = st.file_uploader("Upload your CSV File:", type='.csv')
 
